@@ -1,0 +1,114 @@
+<portfolio_prompt>
+
+Portfolio Website Prompt for Gowtham K
+
+Introduction & Profile Picture
+Create a modern, clean, and professional portfolio website for Gowtham K, a Computer Science and Engineering student (2025) passionate about web development, problem-solving, and exploring new technologies. Include a professional-looking profile picture at the top (hero section). The design should have a white background, dark text, and blue highlights for a simple yet elegant look.
+
+Website Structure & Sections
+1. Home
+
+Hero section with Gowtham’s name, title (Computer Science & Engineering Student | Aspiring Software Engineer), and tagline.
+
+A professional profile picture.
+
+A short introduction from the bio with a "Learn More" button linking to the About section.
+
+Smooth scrolling navigation bar with links to all sections.
+
+2. About
+
+Personal bio:
+“I am a Computer Science and Engineering student (2025) passionate about web development, problem-solving, and exploring new technologies. With hands-on experience in internships and academic projects, I aim to build a strong career in software engineering and contribute to impactful real-world solutions.”
+
+Education Timeline:
+
+B.E. Computer Science and Engineering – Mahendra Engineering College, Namakkal (2021–2025) – CGPA: 7.88/10
+
+Higher Secondary (12th Grade) – Sri. Vidya Matriculation Higher Secondary School, Virudhunagar (2021) – 78%
+
+Secondary School (10th Grade) – The Glory Matriculation Higher Secondary School, Thiruthangal (2019) – 70%
+
+3. Experience
+
+Internship – AMOHAM Exports, Coimbatore (Jun 2025 – Present)
+
+Contributed to Uzhavan Foods brand website creation using Odoo ERP.
+
+Designed posters/banners in Canva and managed social media.
+
+Assisted in product listing on Amazon & other platforms.
+
+Gained exposure to Python, SQL, ERP modules (inventory, employee, customer data).
+
+Salesforce Internship (Remote, India) (Nov 2023 – Jan 2024)
+
+Worked with Apex, Visualforce, SOQL, and Flow.
+
+Gained foundational knowledge of CRM tools and applications.
+
+4. Skills
+
+Programming Languages: Core Java, Python, SQL
+
+Web Technologies: HTML, CSS, JavaScript, MySQL
+
+Tools & Platforms: Git, GitHub, Odoo ERP
+
+Other Skills: Canva Designing, Problem-Solving, Teamwork
+
+Use visually appealing skill progress bars or icons.
+
+5. Services
+
+Web Development: Front-end & back-end using HTML, CSS, Java, MySQL
+
+ERP Solutions & Product Listing: Odoo ERP, Amazon E-commerce support
+
+UI/UX & Graphic Design: Canva designs, basic wireframing
+
+Use a card-style layout with icons for each service.
+
+6. Portfolio / Projects
+
+Showcase with images, descriptions, and tech stack used:
+
+Bus Seat Allocation System – Homepage for bus seat booking (HTML, Java, JavaScript, MySQL).
+
+SpendWise Application – Expense tracking app with SMS alerts (Java, MySQL, HTML, CSS).
+
+Emotion Classification in Audio Signals – Classified human emotions using ML models (Python, MFCC, TESS Dataset).
+
+Include clickable project cards with hover effects.
+
+7. Contact
+
+Contact form (Name, Email, Message).
+
+Display direct info:
+
+📧 Email: gowtham1212003@gmail.com
+
+📱 Phone: +91 8220507035
+
+🔗 LinkedIn: linkedin.com/in/gowthamk121
+
+💻 GitHub: github.com/gowthamk121
+
+📍 Location: Virudhunagar, India
+
+Design Elements & Style
+
+Theme: Modern, clean, and professional.
+
+Color Scheme: White background, dark text, blue highlights.
+
+Typography: Use a sleek sans-serif font (like Poppins or Roboto).
+
+Layout: Grid-based sections with plenty of spacing.
+
+Effects: Smooth scrolling, subtle animations (fade-in, hover effects).
+
+Responsive: Fully responsive design for desktop, tablet, and mobile.
+
+</portfolio_prompt>
